@@ -1,5 +1,5 @@
-
-var gameState=0
+//trying out fork options
+var gameState=0;
 var gameState1="play"
 var ballImg,hoopImg, ball, hoop, player, defense, defenceImg,score=0, questions,shotImg,playerAni,dunkImg, hoopAni;
 function preload(){
